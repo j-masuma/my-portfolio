@@ -38,7 +38,8 @@ export default function Header() {
               className="me-2"
               aria-label="Search"
             /> */}
-            <Button variant="outline-primary">LogIn</Button>
+            
+            <Button variant="primary">LogIn</Button>
           </Form>
         </Navbar.Collapse>
       </Container>
