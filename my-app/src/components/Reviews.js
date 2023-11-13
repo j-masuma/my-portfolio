@@ -1,3 +1,4 @@
+//import react from 'react';
 const BuyerReview=()=>{
     return(
         <p>Buyer Reviews</p>
