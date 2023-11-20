@@ -5,12 +5,14 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import {Projects} from './components/Projects';
 import './App.css';
+import Reviews from './components/Reviews';
 function App() {
   return (
     <div>
       <Header/>
       <HeroSection/>
       <Projects/>
+      <Reviews/>
       <Contact/>
       <Footer/>
     </div>
